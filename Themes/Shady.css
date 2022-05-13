@@ -217,7 +217,7 @@ identifier.argument.prefix {
 
 /* Strings */
 string {
-    color: hsl(99, 44%, 61%);
+    color: hsl(99, 32%, 65%);
 }
 string.delimiter {
     color: hsl(99, 44%, 61%);
