@@ -331,7 +331,7 @@ style.selector.identifier.id {
     color: hsl(32, 90%, 70%);
 }
 style.selector.identifier.class {
-    color: hsl(100, 60%, 70%);
+    /* color: hsl(100, 60%, 70%); */
 }
 style.selector.pseudoclass {
     color: hsl(270, 80%, 80%);
@@ -340,20 +340,23 @@ style.selector.pseudoelement {
     color: hsl(32, 90%, 70%);
 }
 style.attribute.name {
-    color: hsl(179, 40%, 53%);
+    color: hsl(179, 33%, 74%);
+}
+style.value {
+    color: hsl(99, 44%, 61%);
 }
 style.value.number {
-    color: hsl(45, 50%, 80%);
+    /* color: hsl(99, 44%, 61%); */
 }
 style.value.color.hex {
-    color: hsl(45, 50%, 80%);
+    /* color: hsl(99, 44%, 61%); */
 }
 style.value.keyword {
-    color: hsl(210, 100%, 70%);
+    /* color: hsl(210, 100%, 70%); */
 }
 style.value.color.named {
-    color: hsl(210, 100%, 70%);
+    /* color: hsl(99, 44%, 61%); */
 }
 style.value.identifier.function {
-    color: hsl(160, 80%, 55%);
+    /* color: hsl(160, 80%, 55%); */
 }
