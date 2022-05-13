@@ -117,7 +117,7 @@ declaration {
     /* color: hsl(210, 20%, 50%); */
 }
 bracket {
-    color: hsl(0, 0%, 95%);
+    color: hsl(0, 0%, 74%);
 }
 operator {
     /* color: hsl(210, 50%, 70%); */
@@ -147,7 +147,7 @@ keyword.statement {
     /* color: hsl(0, 0%, 77%); */
 }
 keyword.self {
-    /* color: hsl(0, 0%, 77%); */
+    color: hsl(0, 0%, 82%);
 }
 keyword.self.prefix {
     /* color: hsl(0, 0%, 77%); */
@@ -172,10 +172,13 @@ value.symbol {
 
 /* Identifiers */
 identifier.type {
-    color: hsl(63, 19%, 67%);
+    /* color: hsl(63, 19%, 67%); */
+    color: hsl(0, 0%, 74%);
+}
+identifier.global {
+    color: hsl(0, 0%, 74%);
 }
 identifier.constant,
-identifier.global,
 identifier.variable {
     /* color: hsl(0, 0%, 70%); */
 }
@@ -200,7 +203,7 @@ identifier.method {
     /* color: hsl(81, 76%, 54%); */
 }
 identifier.key {
-    color: hsl(258, 41%, 78%);
+    color: hsl(36, 31%, 63%);
 }
 identifier.name {
     /* color: hsl(207, 100%, 87%); */
@@ -223,7 +226,7 @@ string.escape {
     color: hsl(5, 80%, 80%);
 }
 string.key {
-    color: hsl(207, 90%, 77%);
+    color: hsl(36, 31%, 63%);
 }
 string-keyword {
     color: hsl(30, 100%, 90%);
@@ -301,16 +304,16 @@ tag.framework.name {
     color: hsl(280, 60%, 70%);
 }
 tag.attribute.name {
-    color: hsl(100, 60%, 70%);
+    color: hsl(36, 31%, 63%);
 }
 tag.framework.attribute.name {
-    color: hsl(0, 0%, 77%);
+    color: hsl(36, 31%, 63%);
 }
 tag.attribute.value {
-    color: hsl(5, 80%, 65%);
+    color: hsl(99, 44%, 61%);
 }
 tag.attribute.value.delimiter {
-    color: hsl(0, 80%, 60%);
+    color: hsl(99, 44%, 61%);
 }
 tag.attribute.operator {
     color: hsl(210, 50%, 70%);
