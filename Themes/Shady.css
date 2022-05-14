@@ -152,13 +152,13 @@ keyword.self.prefix {
 
 /* Values */
 value.boolean {
-    color: hsl(99, 44%, 61%);
+    color: hsl(99, 32%, 65%);
 }
 value.null {
     color: hsl(0, 0%, 77%);
 }
 value.number {
-    color: hsl(99, 44%, 61%);
+    color: hsl(99, 32%, 65%);
 }
 value.entity {
     /* color: hsl(210, 100%, 70%); */
@@ -300,7 +300,7 @@ tag.attribute.name {
     color: hsl(0, 0%, 80%);
 }
 tag.attribute.value {
-    color: hsl(99, 44%, 61%);
+    color: hsl(99, 32%, 65%);
 }
 tag.attribute.value.delimiter {
     color: hsl(99, 44%, 61%);
@@ -336,7 +336,7 @@ style.attribute.name {
     color: hsl(0, 0%, 80%);
 }
 style.value {
-    color: hsl(99, 44%, 61%);
+    color: hsl(99, 32%, 65%);
 }
 style.value.number {
     /* color: hsl(99, 44%, 61%); */
