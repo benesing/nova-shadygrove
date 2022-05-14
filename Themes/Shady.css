@@ -4,10 +4,6 @@ meta {
     -theme-accent-color: auto;
 }
 
-
-/*
- * Window styles
- */
 meta.window {
     border-color: hsla(0, 0%, 100%, 0.1);
 }
@@ -225,13 +221,16 @@ string-keyword {
     color: hsl(30, 100%, 90%);
 }
 string-template {
-    color: hsl(30, 100%, 70%);
+    color: hsl(318, 71%, 70%);
 }
 regex {
-    color: hsl(30, 100%, 70%);
+    color: hsl(318, 72%, 67%);
+}
+regex.delimiter {
+    color: hsl(318, 36%, 47%);
 }
 regex.escape {
-    color: hsl(30, 100%, 80%);
+    color: hsl(360, 77%, 60%);
 }
 cdata {
     color: hsl(210, 100%, 70%);
