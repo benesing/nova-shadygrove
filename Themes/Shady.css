@@ -169,11 +169,10 @@ value.symbol {
 
 /* Identifiers */
 identifier.type {
-    /* color: hsl(63, 19%, 67%); */
-    color: hsl(0, 0%, 74%);
+    color: hsl(0, 0%, 70%);
 }
 identifier.global {
-    color: hsl(0, 0%, 74%);
+    color: hsl(0, 0%, 70%);
 }
 identifier.constant,
 identifier.variable {
@@ -200,10 +199,7 @@ identifier.method {
     /* color: hsl(81, 76%, 54%); */
 }
 identifier.key {
-    color: hsl(179, 33%, 74%);
-}
-identifier.name {
-    /* color: hsl(207, 100%, 87%); */
+    color: hsl(0, 0%, 80%);
 }
 identifier.argument {
     /* color: hsl(0, 0%, 77%); */
@@ -223,7 +219,7 @@ string.escape {
     color: hsl(5, 80%, 80%);
 }
 string.key {
-    color: hsl(179, 33%, 74%);
+    color: hsl(0, 0%, 80%);
 }
 string-keyword {
     color: hsl(30, 100%, 90%);
@@ -301,7 +297,7 @@ tag.framework.name {
     color: hsl(280, 39%, 76%);
 }
 tag.attribute.name {
-    color: hsl(179, 33%, 74%);
+    color: hsl(0, 0%, 80%);
 }
 tag.attribute.value {
     color: hsl(99, 44%, 61%);
@@ -337,7 +333,7 @@ style.selector.pseudoelement {
     color: hsl(32, 90%, 70%);
 }
 style.attribute.name {
-    color: hsl(179, 33%, 74%);
+    color: hsl(0, 0%, 80%);
 }
 style.value {
     color: hsl(99, 44%, 61%);
