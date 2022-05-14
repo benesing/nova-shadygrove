@@ -132,15 +132,12 @@ link {
 
 /* Keywords */
 keyword {
-    color: hsl(0, 0%, 74%);
+    color: hsl(0, 0%, 70%);
 }
 keyword.modifier {
     /* color: hsl(0, 0%, 77%); */
 }
 keyword.condition {
-    /* color: hsl(0, 0%, 77%); */
-}
-keyword.construct {
     /* color: hsl(0, 0%, 77%); */
 }
 keyword.statement {
