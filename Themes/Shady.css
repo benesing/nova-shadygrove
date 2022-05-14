@@ -120,7 +120,7 @@ bracket {
     color: hsl(0, 0%, 87%);
 }
 operator {
-    /* color: hsl(210, 50%, 70%); */
+    color: hsl(0, 0%, 87%);
 }
 invalid {
     background-color: hsl(0, 90%, 60%);
