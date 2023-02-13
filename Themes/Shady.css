@@ -230,7 +230,7 @@ regex.delimiter {
     color: hsl(318, 36%, 47%);
 }
 regex.escape {
-    color: hsl(360, 77%, 60%);
+    color: hsl(318, 100%, 83%);
 }
 cdata {
     color: hsl(210, 100%, 70%);
@@ -284,15 +284,6 @@ definition.method.name {
 
 /* Tags */
 tag {
-    color: hsl(160, 30%, 40%);
-}
-tag.name {
-    color: hsl(160, 60%, 60%);
-}
-tag.framework {
-    color: hsl(280, 30%, 50%);
-}
-tag.framework.name {
     color: hsl(280, 39%, 76%);
 }
 tag.attribute.name {
