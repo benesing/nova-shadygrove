@@ -157,13 +157,16 @@ value.null {
 
 /* Identifiers */
 identifier {
+    color: hsl(0, 0%, 100%);
+}
+identifier.variable.builtin {
     color: hsl(0, 0%, 70%);
 }
 identifier.function {
-    color: hsl(0, 0%, 90%);
+    color: hsl(0, 0%, 80%);
 }
-identifier.property.prefix {
-    color: hsl(240, 100%, 92%);
+identifier.method {
+    color: hsl(0, 0%, 90%);
 }
 identifier.decorator {
     color: hsl(0, 0%, 77%);
@@ -171,8 +174,8 @@ identifier.decorator {
 identifier.key {
     color: hsl(0, 0%, 80%);
 }
-identifier.argument.prefix {
-    color: hsl(240, 100%, 92%);
+identifier.type {
+    color: hsl(0, 0%, 70%);
 }
 
 /* Strings */
