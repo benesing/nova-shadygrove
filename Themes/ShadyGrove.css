@@ -46,8 +46,8 @@ meta.textfield.highlighted {
  * Document styles
  */
 meta.document {
-    background-color: hsl(0, 0%, 16%);
-    border-color: hsla(0, 0%, 100%, 0.1);
+    background-color: hsl(0, 0%, 14%);
+    border-color: hsla(0, 0%, 100%, 0.2);
 }
 
 meta.document.button {
@@ -82,7 +82,7 @@ meta.text.selected {
 
 /* Cursor */
 meta.cursor {
-    background-color: hsl(210, 5%, 15%);
+    background-color: hsl(0, 0%, 10%);
 }
 
 /* Indentation Guides */
@@ -92,11 +92,11 @@ meta.indentguide {
 
 /* Gutter */
 meta.gutter {
-    color: hsl(210, 5%, 38%);
+    color: hsl(0, 0%, 60%);
 }
 meta.gutter.selected {
-    background-color: hsl(210, 5%, 10%);
-    color: hsl(210, 17%, 76%);
+    background-color: hsl(0, 0%, 10%);
+    color: hsl(0, 0%, 90%);
 }
 
 
