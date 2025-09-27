@@ -296,18 +296,3 @@ style.attribute.name {
 style.value {
     color: hsl(99, 32%, 65%);
 }
-style.value.number {
-    /* color: hsl(99, 44%, 61%); */
-}
-style.value.color.hex {
-    /* color: hsl(99, 44%, 61%); */
-}
-style.value.keyword {
-    /* color: hsl(210, 100%, 70%); */
-}
-style.value.color.named {
-    /* color: hsl(99, 44%, 61%); */
-}
-style.value.identifier.function {
-    /* color: hsl(160, 80%, 55%); */
-}
