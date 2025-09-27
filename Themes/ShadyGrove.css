@@ -216,13 +216,13 @@ string-template {
     color: hsl(99, 19%, 46%);
 }
 regex {
-    color: hsl(318, 72%, 67%);
+    color: hsl(318, 100%, 77%);
 }
 regex.delimiter {
-    color: hsl(318, 36%, 47%);
+    color: hsl(318, 100%, 77%);
 }
 regex.escape {
-    color: hsl(318, 100%, 83%);
+    color: hsl(0, 0%, 89%);
 }
 cdata {
     color: hsl(210, 100%, 70%);
