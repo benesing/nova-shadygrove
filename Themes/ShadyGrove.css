@@ -78,6 +78,7 @@ meta.text.invisible {
     color: hsl(0, 0%, 55%);
 }
 meta.text.selected {
+    background-color: hsl(210, 44%, 25%);
 }
 
 /* Cursor */
