@@ -1,7 +1,8 @@
 {
-    "identifier": "org.nebulous.shady",
-    "name": "Shady",
+    "identifier": "org.nebulous.shadygrove",
+    "name": "Shady Grove",
     "author": "Ben Singer",
+    "organization": "Nebulous Industries",
     "description": "A dark theme with less highlighting",
     "version": "1.0",
     "categories": ["themes"]
