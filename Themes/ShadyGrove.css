@@ -72,10 +72,10 @@ meta.document.textfield.highlighted {
 
 /* Text */
 meta.text {
-    color: hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 90%);
 }
 meta.text.invisible {
-    color: hsl(0, 0%, 55%);
+    color: hsl(0, 0%, 60%);
 }
 meta.text.selected {
     background-color: hsl(210, 44%, 25%);
