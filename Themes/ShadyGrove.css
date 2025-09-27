@@ -148,20 +148,11 @@ keyword.self.prefix {
 }
 
 /* Values */
-value.boolean {
+value {
     color: hsl(99, 32%, 65%);
 }
 value.null {
     color: hsl(0, 0%, 77%);
-}
-value.number {
-    color: hsl(99, 32%, 65%);
-}
-value.entity {
-    /* color: hsl(210, 100%, 70%); */
-}
-value.symbol {
-    /* color: hsl(210, 100%, 70%); */
 }
 
 /* Identifiers */
