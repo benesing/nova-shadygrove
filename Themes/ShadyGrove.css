@@ -159,6 +159,9 @@ value.null {
 identifier {
     color: hsl(0, 0%, 100%);
 }
+identifier.global {
+    color: hsl(226, 100%, 74%);
+}
 identifier.variable.builtin {
     color: hsl(0, 0%, 70%);
 }
@@ -180,13 +183,13 @@ identifier.type {
 
 /* Strings */
 string {
-    color: hsl(99, 32%, 65%);
+    color: hsl(99, 40%, 66%);
 }
 string.delimiter {
-    color: hsl(99, 44%, 61%);
+    color: hsl(99, 40%, 66%);
 }
 string.escape {
-    color: hsl(5, 80%, 80%);
+    color: hsl(5, 100%, 83%);
 }
 string.key {
     color: hsl(0, 0%, 80%);
@@ -198,13 +201,13 @@ string-template {
     color: hsl(99, 19%, 46%);
 }
 regex {
-    color: hsl(318, 100%, 77%);
+    color: hsl(318, 100%, 85%);
 }
 regex.delimiter {
-    color: hsl(318, 100%, 77%);
+    color: hsl(318, 100%, 73%);
 }
 regex.escape {
-    color: hsl(0, 0%, 89%);
+    color: hsl(59, 45%, 72%);
 }
 cdata {
     color: hsl(210, 100%, 70%);
@@ -258,7 +261,7 @@ definition.method.name {
 
 /* Tags */
 tag {
-    color: hsl(280, 39%, 76%);
+    color: hsl(281, 71%, 81%);
 }
 tag.attribute.name {
     color: hsl(0, 0%, 80%);
