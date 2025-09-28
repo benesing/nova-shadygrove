@@ -5,6 +5,7 @@
     "organization": "Nebulous Industries",
     "description": "A dark theme with less highlighting",
     "repository": "https://github.com/benesing/nova-shadygrove",
+    "bugs": "https://github.com/benesing/nova-shadygrove/issues",
     "version": "1.1",
     "categories": ["themes"]
 }
