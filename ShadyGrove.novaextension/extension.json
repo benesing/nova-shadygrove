@@ -4,6 +4,7 @@
     "author": "Ben Singer",
     "organization": "Nebulous Industries",
     "description": "A dark theme with less highlighting",
+    "repository": "https://github.com/benesing/nova-shadygrove",
     "version": "1.0",
     "categories": ["themes"]
 }
