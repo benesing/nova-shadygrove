@@ -5,3 +5,5 @@ Not everything needs a highlight, and this theme doesn’t highlight everything.
 Designed and used for JavaScript, TypeScript, TSX, C++, HTML, CSS, and Markdown.
 
 [Nova](https://panic.com/nova) is a editor made by [Panic Inc](https://panic.com).
+
+![preview-1](https://raw.githubusercontent.com/benesing/nova-shadygrove/main/preview/preview-1.png)
