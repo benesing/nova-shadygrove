@@ -1,7 +1,7 @@
-## Version 1.0 (2022-05-14)
+# 2022-05-14 v1.0
 
 Initial work.
 
-## Version 1.1 (2025-09-29)
+# 2025-09-29 v1.1
 
 Tweak for public release.
